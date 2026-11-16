@@ -1,8 +1,9 @@
-// Ejercicio 1: Declaración de Función
-// Modifica la siguiente función creando una nueva variable llamada nombre y asignándole tu nombre. La función debe retornar esta nueva variable que contiene tu nombre
+
+ // Ejercicio 1: Declaración de Función
 
 function obtenerNombre() {
-    // Escribe tu código aquí
+    let nombre = "Fernando";
+    return nombre;
 }
 
 // No modificar.
